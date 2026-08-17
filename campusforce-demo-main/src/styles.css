@@ -58,7 +58,7 @@
   --radius: 0.75rem;
 
   /* Theme colours: use project-wide palette */
-  --background: #F4F1EB; /* cream */
+  --background: white; /* cream */
   --foreground: #353E43; /* dark */
 
   --card: var(--background);
@@ -114,7 +114,7 @@
 
 .dark {
   --background: #353E43; /* dark */
-  --foreground: #F4F1EB; /* cream */
+  --foreground: white; /* cream */
   --card: #2E3336;
   --card-foreground: var(--foreground);
   --popover: #2E3336;
